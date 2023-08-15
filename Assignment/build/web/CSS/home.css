@@ -1,0 +1,94 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Feb 23, 2023, 10:13:19 PM
+    Author     : hp
+*/
+
+body{  
+   margin: 0;
+   padding: 0;
+}
+
+
+
+big{
+    color: blueviolet;
+    font-size: 40px;
+}
+
+.left-main{
+    
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-right: 50%;
+   
+}
+
+.right-main{  
+    margin-top: 10px;
+    margin-right:20px;
+}
+
+.images{
+    color: red;
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.login{
+    /*text-align: center;*/
+  margin-left: 100px;
+ 
+}
+
+.buttom input{   
+   margin: 10px;
+   background-color: antiquewhite;
+   border-radius: 3px;
+   margin-left: 5px;
+}
+
+.buttom{
+   margin-top: 10px; 
+}
+#remember{   
+    margin-left: 80px;
+    font-size: 4px;
+}
+.cooki{
+    margin-left: 24px;
+}
+
+.submit input{
+    margin-top: 10px;
+    border: none;
+    margin-left: 150px;
+    background: blue;
+    color: white;
+    padding: 5px 30px;
+    cursor: pointer;
+    /*transition: background 1s;*/
+    
+} 
+
+.submit :hover{
+    background: green;
+}
+
+.other {
+    margin-top: 10px;
+    margin-left:60px;
+}
+
+.other p{
+    margin: 5px;
+    margin-left: 130px;
+}
+
+
